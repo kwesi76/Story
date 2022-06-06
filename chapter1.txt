@@ -1,0 +1,1 @@
+Machine learning is teaching computers to learn human behaviors without explicitly programming them
